@@ -2,8 +2,8 @@
 name: Bug report
 about: Create a report to help us improve
 title: "[BUG]"
-labels: PENDING, bug
-assignees: Jamie-D-T
+labels: Bug, Pending
+assignees: Jamie-D-T, PoliceTrooper, ZackDallaire112
 
 ---
 

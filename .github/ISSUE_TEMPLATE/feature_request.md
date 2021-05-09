@@ -2,8 +2,8 @@
 name: Feature request
 about: Suggest an idea for this project
 title: ''
-labels: PENDING, enhancement
-assignees: Jamie-D-T
+labels: Help wanted, Pending
+assignees: Jamie-D-T, PoliceTrooper, ZackDallaire112
 
 ---
 
