@@ -2,7 +2,7 @@
 name: Feature request
 about: Suggest an idea for this project
 title: ''
-labels: Help wanted, Pending
+labels: Enhancement, Pending
 assignees: Jamie-D-T, PoliceTrooper, ZackDallaire112
 
 ---
